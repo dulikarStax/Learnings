@@ -1,0 +1,31 @@
+{
+    "searchStringsArray": [
+        "restaurant New York",
+        "gyms"
+    ],
+    "maxCrawledPlacesPerSearch": 10,
+    "language": "en",
+    "exportPlaceUrls": false,
+    "includeHistogram": false,
+    "includeOpeningHours": false,
+    "includePeopleAlsoSearch": false,
+    "additionalInfo": false,
+    "maxImages": 0,
+    "maxReviews": 99999,
+    "oneReviewPerRow": false,
+    "scrapeReviewerName": true,
+    "scrapeReviewerId": false,
+    "scrapeReviewerUrl": false,
+    "scrapeReviewId": false,
+    "scrapeReviewUrl": true,
+    "scrapeResponseFromOwnerText": true,
+    "proxyConfig": {
+        "useApifyProxy": true
+    },
+    "country": "USA",
+    "state": "New York",
+    "county": "washington",
+    "city": "manhattn",
+    "postalCode": "10001",
+    "maxAutomaticZoomOut": 10
+}
